@@ -1,0 +1,15 @@
+C:\studia\TAU_Projekt\GAME_TAU\GAME_TAU\bin\Debug\net6.0\GAME_TAU.exe
+C:\studia\TAU_Projekt\GAME_TAU\GAME_TAU\bin\Debug\net6.0\GAME_TAU.deps.json
+C:\studia\TAU_Projekt\GAME_TAU\GAME_TAU\bin\Debug\net6.0\GAME_TAU.runtimeconfig.json
+C:\studia\TAU_Projekt\GAME_TAU\GAME_TAU\bin\Debug\net6.0\GAME_TAU.dll
+C:\studia\TAU_Projekt\GAME_TAU\GAME_TAU\bin\Debug\net6.0\GAME_TAU.pdb
+C:\studia\TAU_Projekt\GAME_TAU\GAME_TAU\obj\Debug\net6.0\GAME_TAU.csproj.AssemblyReference.cache
+C:\studia\TAU_Projekt\GAME_TAU\GAME_TAU\obj\Debug\net6.0\GAME_TAU.GeneratedMSBuildEditorConfig.editorconfig
+C:\studia\TAU_Projekt\GAME_TAU\GAME_TAU\obj\Debug\net6.0\GAME_TAU.AssemblyInfoInputs.cache
+C:\studia\TAU_Projekt\GAME_TAU\GAME_TAU\obj\Debug\net6.0\GAME_TAU.AssemblyInfo.cs
+C:\studia\TAU_Projekt\GAME_TAU\GAME_TAU\obj\Debug\net6.0\GAME_TAU.csproj.CoreCompileInputs.cache
+C:\studia\TAU_Projekt\GAME_TAU\GAME_TAU\obj\Debug\net6.0\GAME_TAU.dll
+C:\studia\TAU_Projekt\GAME_TAU\GAME_TAU\obj\Debug\net6.0\refint\GAME_TAU.dll
+C:\studia\TAU_Projekt\GAME_TAU\GAME_TAU\obj\Debug\net6.0\GAME_TAU.pdb
+C:\studia\TAU_Projekt\GAME_TAU\GAME_TAU\obj\Debug\net6.0\GAME_TAU.genruntimeconfig.cache
+C:\studia\TAU_Projekt\GAME_TAU\GAME_TAU\obj\Debug\net6.0\ref\GAME_TAU.dll
